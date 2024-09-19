@@ -1,0 +1,7 @@
+.bg-image {
+    background-image: url("https://www.betterup.com/hs-fs/hubfs/image1-3.png?width=1999&name=image1-3.png");
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-color: brown;
+    background-size: cover;
+  }
